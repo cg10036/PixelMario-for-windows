@@ -1,5 +1,10 @@
 MARIO in console window! (For Windows)
+
 Latest release in ./GOOMBA_MODE/TEST_WAY_2.exe
+
+NO Graphics.h! Only WinAPI!(Windows.h)
+
+
 <br><br>
 ##IMPORTANT##
 
